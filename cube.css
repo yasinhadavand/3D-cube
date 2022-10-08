@@ -20,7 +20,9 @@
             }
         }
         
-        
+        body{
+            background-color: black;
+        }
         .cube{
            position: absolute;
             width: 200px;
